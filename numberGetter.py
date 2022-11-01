@@ -1,5 +1,5 @@
-INTEGER_TRY_AGAIN_ = "Not an integer ! Try again."
-FLOAT_TRY_AGAIN_ = "Not an float! Try again."
+INTEGER_TRY_AGAIN_ = "Not an integer ! Try again!"
+FLOAT_TRY_AGAIN_ = "Not an float! Try again!"
 
 
 def input_float_number(message):
