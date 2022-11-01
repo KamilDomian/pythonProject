@@ -4,7 +4,7 @@ from numberGetter import input_int_number
 user_choice = -1
 
 while user_choice != 0:
-    print("------------------------")
+    print("----------MENU--------------")
     print("1 oblicz pole koła")
     print("2 oblicz obwód koła")
     print("0 zamknij")
