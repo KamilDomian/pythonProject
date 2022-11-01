@@ -4,12 +4,12 @@ from numberGetter import input_float_number
 
 
 def pole_task():
-    promien = input_float_number("Podaj promień: ")
+    promien = input_float_number("Podaj promień koła: ")
     pole = math.pi * promien ** 2
     print(f"Pole koła o promieniu {promien} wynosi: {pole}")
 
 
 def obwod_task():
-    promien = input_float_number("podaj promien: ")
+    promien = input_float_number("podaj promien koła: ")
     obwod = math.pi * promien * 2
     print(f"Obwód koła o promieniu: {promien}  wynosi:  {obwod}")
